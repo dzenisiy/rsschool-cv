@@ -12,6 +12,9 @@ I am known for my flexible, self-motivated working style, strong ownership of pr
 
 As a contributor to AEM ACS Commons, I extended the existing migration tool to support SFTP. My work can be explored [here](https://adobe-consulting-services.github.io/acs-aem-commons/features/mcp-tools/asset-ingestion/url-asset-ingestor/index.html)
 
+### Code samples
+[Contribution to ACS Commons](https://github.com/Adobe-Consulting-Services/acs-aem-commons/pulls?q=is%3Apr+is%3Aclosed+author%3Acylinder-y)
+
 ### Skills
 * Main Technilogy: AEM
 * Ci/CD: Circle CI, Jenkins
@@ -20,7 +23,7 @@ As a contributor to AEM ACS Commons, I extended the existing migration tool to s
 * Skiing, swimming, climbing, cycling
 
 ### Languages:
-English: B1/B2
-Polish: B1
-Russian: Native,
-Belarusian: Native
+* English: B1/B2
+* Polish: B1
+* Russian: Native,
+* Belarusian: Native
